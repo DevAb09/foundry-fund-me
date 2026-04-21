@@ -28,7 +28,7 @@ Tech Stack- Solidity
 ##
 Running Tests
 ```bash
-forge Test
+forge test
 
 ##
 Running with verbosity
