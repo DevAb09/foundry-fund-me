@@ -27,6 +27,7 @@ Tech Stack- Solidity
 ---
 ##
 Running Tests
+```bash
 forge Test
 
 ##
